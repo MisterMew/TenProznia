@@ -1,0 +1,27 @@
+
+//* PLANNED FEATURES *//
+
+
+// GAME MODES //
+# Story: Pre-designed levels that reward the player with unlockable content, EG. bird skins, bird models, new gamemodes, particle effects and bird cosmetics
+
+# Endless: Physics-applied flight with procedurally generated obstacles. Collect orbs (currency).
+# - - - - - Day/night cycle - Fixed left-right generation but infinite forward generation
+
+# Freeflight: Relaxed, slow-paced gamemode. No ground or gravity, fly in any (straight) direction and avoid the procedurally generated environment.
+# - - - - - - Implement boids for aesthetic, floating islands and space-debris, twilight
+# - - - - - - THEME: Space/galaxy void, Serene
+
+# Death wish: Procedurally generated endless mode - greater difficulty, faster pace, greater rewards 
+# - - - - - - Infinite left, right, and forward generation.
+# - - - - - - Switches between grounded- and free- flight, screen view can change (eg play upsidedown), ?must collect life orbs to keep going (the darkness is life-draining)
+# - - - - - - THEME: Dark empty void, vibrant neon details (lights/effects)
+
+
+// GAMEPLAY //
+# Statistics: Score, Distance travelled, Currency collected
+
+
+// EFFECTS //
+# Death: Explode in heap of feathers, fractals, and light
+
