@@ -25,3 +25,11 @@
 // EFFECTS //
 # Death: Explode in heap of feathers, fractals, and light
 
+
+// CONTROLS //
+# Mobile: Touch-input movement
+# - - - - Tilt sensitivity movement
+# - - - - Portrait and landscape compatibilities
+
+# PC: WASD and Arrow keys, mouse input (similar to mobile)
+# - - Controller support
